@@ -1,8 +1,0 @@
-com\splitapp\model\Expense$SplitType.class
-com\splitapp\model\Expense.class
-com\splitapp\repository\ExpenseRepository.class
-com\splitapp\service\ExpenseService$1.class
-com\splitapp\service\ExpenseService.class
-com\splitapp\model\Expense$SplitShare.class
-com\splitapp\controller\ExpenseController.class
-com\splitapp\SplitAppApplication.class
